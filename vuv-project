@@ -1,0 +1,6 @@
+cd vuv_project
+git init
+git add .
+git commit -m "Initial commit of Vuv project"
+git remote add origin https://github.com/your-username/vuv-project.git
+git push -u origin master
